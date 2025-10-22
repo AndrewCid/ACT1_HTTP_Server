@@ -2,5 +2,5 @@
 This project implements a basic HTTP server using PHP's socket functions, capable of
 serving 200 (Success) and 404 (Not Found) responses.
 ## Group Partners:
-- **Lead Developer:** [Lead Partner Name]
-- **Collaborator:** [Partner Name]
+- **Lead Developer:** [Aaron Andrew L. Cid]
+- **Collaborator:** [Celein M. Laniohan]
