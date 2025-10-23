@@ -3,6 +3,7 @@ This project implements a basic HTTP server using PHP's socket functions, capabl
 serving 200 (Success) and 404 (Not Found) responses.
 
 ## Group Partners:
+<<<<<<< HEAD
 - **Lead Developer:** Aaron Andrew L. Cid  
 - **Collaborator:** Celein M. Laniohan
 
@@ -51,3 +52,7 @@ added a touch of beauty and functionality to the webpages
 - Images: JPG, JPEG, PNG, GIF
 
 ---
+=======
+- **Lead Developer:** [Aaron Andrew L. Cid]
+- **Collaborator:** [Celein M. Laniohan]
+>>>>>>> 4e430f61a0f8aba77b91f0ee810ce9999cc969d0
